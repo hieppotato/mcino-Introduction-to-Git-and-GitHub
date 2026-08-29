@@ -6,7 +6,6 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 This project demonstrates Git branch and merge workflows.
 The calculator accepts principal, rate, and time as user input.
-
 ```
 Input:
    p, principal amount
